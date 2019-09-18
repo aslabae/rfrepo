@@ -1,5 +1,5 @@
-# documentation
+# dokumentation
 #test
-# installation
+# inzdallation
 # resources
 
